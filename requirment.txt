@@ -1,0 +1,3 @@
+Python 3.7 or higher
+FastAPI
+Uvicorn (for running the API server)
