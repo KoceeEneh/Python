@@ -18,10 +18,11 @@ Classifies a given number and provides its mathematical properties such as prime
 **number (integer)**: The number to classify. Must be a positive integer.
 
 ### Response
-<img width="712" alt="Screenshot 2025-02-04 at 21 38 52" src="https://github.com/user-attachments/assets/e2fad011-8574-4f27-9a94-f5be873f51f5" />
+<img width="712" alt="Screenshot 2025-02-04 at 21 38 52" src="https://github.com/user-attachments/assets/3e79ea7e-03e6-417e-9bbf-139cc83ab078" />
 
 ### Request
-<img width="634" alt="Screenshot 2025-02-04 at 21 44 24" src="https://github.com/user-attachments/assets/cc033977-82c9-4c29-b2f1-dc5ab493cc47" />
+<img width="634" alt="Screenshot 2025-02-04 at 21 44 24" src="https://github.com/user-attachments/assets/5dfe299a-aee3-4f30-9045-307e0858f0c2" />
+
 
 ## How it works
 The API provides a classification of a number based on the following properties:
@@ -32,3 +33,11 @@ The API provides a classification of a number based on the following properties:
 - Even/Odd: The number is classified as even if divisible by 2, otherwise it is odd.
 - Digit Sum: The sum of all the digits of the number.
 - Additionally, a fun fact about the number is provided based on the classification.
+
+## Installation
+### Requirments
+- Python 3.7+
+- FastAPI
+- Uvicorn
+- mangum
+
