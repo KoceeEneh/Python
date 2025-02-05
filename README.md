@@ -13,8 +13,8 @@ This API was created for the HNG DevOps Stage 1 task. feel free to contribute.
 ### Classify Number
 Classifies a given number and provides its mathematical properties such as prime, perfect, Armstrong, even/odd, digit sum, and a fun fact.
 
-**Endpoint**: _GET /api/classify-number_
-**Query Parameters**:
+**Endpoint**: _GET /api/classify-number_ <br>
+**Query Parameters**: <br>
 **number (integer)**: The number to classify. Must be a positive integer.
 
 ### Response
